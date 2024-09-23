@@ -8,3 +8,6 @@
 //
 // Useful links:
 // https://www.typescriptlang.org/docs/handbook/variable-declarations.html#let-declarations
+
+
+const courseName = "typescript";
