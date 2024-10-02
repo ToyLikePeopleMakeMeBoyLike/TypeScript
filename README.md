@@ -39,3 +39,80 @@ and then run with
 ## Generate docs
 
 cd demo/ANY_DIR && npx typedoc DEMO_FILE.ts
+
+
+## Instalacion electrica:
+
+## Conjunto de elementos necesarios para conducior trnaformar, de manera segura la energia electrica para el funcion
+## de los equipos existentes
+## Elemtnso que conforman una instalcion electrica
+## Conductores electricops
+## Canalizadores necesarios como conectores coples, cajas conjuntos, etc
+## Dispositivos de proteccion
+## tableros 
+## Equipos de consumo
+## tranformadores
+## palntas de emerg3wncia
+## upos
+## subestaciones
+##
+## Requeriemtnosd que debe cumplir una instalcion electrica 
+## ser segura en su operacion
+## eficiciente
+## Confiable
+## Flexible
+## Accesible
+## Facil Mantenimiento
+## Economica
+## Cumplir con las normas 
+##
+## Diagrama unifilar, Es la representaicon esquemtaitca de la instalcion electeica en  nuna sola linea
+## se represnetan ;los dieferentess elem,entosd que la conforman, asi como0 princicpales datos electricos
+## Voltaje , corriente , fases gilos, cpacitaores de proteccion etc
+## 
+##
+## Voltajes 
+##
+##
+##
+##
+##
+##
+##
+##
+##
+##
+##
+##
+##
+##
+##
+##
+##
+##
+##
+##
+##
+##
+##
+##
+##
+##
+##
+##
+##
+##
+##
+##
+##
+##
+##
+##
+##
+##
+##
+##
+##
+##
+##
+##

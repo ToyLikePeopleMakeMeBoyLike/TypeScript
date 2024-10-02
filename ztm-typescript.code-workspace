@@ -1,6 +1,11 @@
 {
 	"folders": [
 		{
+			"name": "TypeScript",
+			"path": "../../../workspaces/TypeScript"
+		},
+		{
+			"name": "ztm-typescript",
 			"path": "."
 		}
 	],
