@@ -25,3 +25,7 @@ assert.equal(k, 6);
 n =5 ;
 const t = --n;
 assert.equal(t, 4);
+
+
+also all operations including /*-+
+
